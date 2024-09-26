@@ -1,6 +1,6 @@
 {
-  "name": "devops_ads",
-  "version": "2.0.2",
+  "name": "devops_adsdm",
+  "version": "2.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
